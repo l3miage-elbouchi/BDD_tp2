@@ -8,3 +8,4 @@ import javax.persistence.Entity;
 public class Manager extends Employe{
     String niveauGestion;
 }
+//
